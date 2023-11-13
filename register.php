@@ -22,7 +22,7 @@
         <h5 class="card-title">Fill this application form to legible for your grants</h5>
 
         <!-- Registration Form -->
-        <form action="https://formspree.io/f/xaygzyza" method="POST" class="row g-3">
+        <form action="https://formspree.io/f/myyqazyo" method="POST" class="row g-3">
 
           <div class="col-md-6">
             <label for="fullName" class="form-label">Full Name</label>
