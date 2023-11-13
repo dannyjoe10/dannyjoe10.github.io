@@ -1,0 +1,23 @@
+ /* Add this style to your existing CSS */
+ #footer {
+     background-color: #343a40;
+     /* Dark background color */
+     padding: 60px 0;
+     color: #fff;
+     /* Text color */
+ }
+
+ #footer h4 {
+     color: #fff;
+     /* Heading color */
+ }
+
+ #footer a {
+     color: #fff;
+     /* Link color */
+ }
+
+ #footer a:hover {
+     color: #007BFF;
+     /* Hover color for links */
+ }
